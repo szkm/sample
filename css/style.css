@@ -183,7 +183,7 @@ section ul li:before {
 	.navbar-default
 	{
 		background-color:#fff;
-		padding: 10px 0;
+		padding: 15px 0;
 		-webkit-transition:padding .3s;
 		-moz-transition:padding .3s;
 		transition:padding .3s;
