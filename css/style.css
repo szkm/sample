@@ -61,6 +61,7 @@ p {
 	color: #797979;
 }
 
+
 .dark-bg p {
 color: #B1B1B1;	
 }
@@ -214,7 +215,7 @@ section ul li:before {
 --------------------*/
 
 header {
-	background-image: url(../images/demo/bg-sanza.jpg);
+	background-image: url(../images/demo/bg-sanza.jpg) ;
 	background-repeat: none;
 	background-attachment: scroll;
 	background-position: center center;
@@ -226,19 +227,19 @@ header {
 	color: #fff;
 }
 
-header .intro-text {
+/*header .intro-text {
 	padding-top: 100px;
 	padding-bottom: 50px;
-}
+}*/
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
 	header .intro-text {
 		padding-top: 230px;
 		padding-bottom: 400px;
     }
-}
+}*/
 
-header .intro-text .intro-lead-in {
+/*header .intro-text .intro-lead-in {
 	display: inline-block;
 	background-color: rgba(255, 255, 255, 0.65);
 	margin-bottom: 25px;
@@ -247,18 +248,18 @@ header .intro-text .intro-lead-in {
 	font-size: 19px;
 	color: #3E3E3E;
 	font-weight: 300;
-	line-height: 40px;
+	line-height: 40px;*/
 }
-
+/*
 @media (min-width: 768px) {
 	header .intro-text .intro-lead-in {
     font-size: 29px;
     line-height: 40px;
     margin-bottom: 45px;
-	}
+	}*/
 }
 
-header .intro-text .intro-heading {
+/*header .intro-text .intro-heading {
 	text-transform: uppercase;
 	font-weight: 900;
 	font-size: 40px;
@@ -268,15 +269,15 @@ header .intro-text .intro-heading {
 	word-spacing: 10px;
 	color: #FFFFFF;
 	text-shadow: 1px 1px 1px rgb(0, 0, 0);
-}
+}*/
 
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
 	header .intro-text .intro-heading {
 		line-height: 95px;
 		font-size: 77px;
 		margin-bottom: 50px;
 	}
-}
+}*/
 
 /*--------------------
 4. Sections
